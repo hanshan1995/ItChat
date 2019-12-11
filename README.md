@@ -1,3 +1,27 @@
+https://blog.51cto.com/12075300/2132653
+
+这是网上找的资料。（我只是看了第1个，第2个，第3个）
+
+1.       https://www.cnblogs.com/chenbei-blog/p/7799352.html
+
+这个比较适合入门看，基本上看这里，就够用了。
+
+2.       http://itchat.readthedocs.io/zh/latest
+
+这里面讲的更全面一点，当然也稍微难一点。
+
+3.       http://itchat.readthedocs.io/zh/latest/api/
+
+这里面列举了itchat的所有API。有需求，就可以在这里直接找你需要的API。
+
+4.       http://python.jobbole.com/86532/
+
+这篇文章，我只是瞄了一眼，没有细看。貌似有写很意思的功能，如群发助手、好友删除检测。哈哈哈，以后有时间、有需求，再看。
+
+5.       https://www.cnblogs.com/Chenjiabing/p/6907397.html
+
+这个文章的笔记，整理的比较细和全面。
+
 # itchat
 
 [![Gitter][gitter-picture]][gitter] ![py27][py27] ![py35][py35] [English version][english-version]
